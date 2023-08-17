@@ -5,16 +5,12 @@ import GetApi from './components/GetApi';
 import AddApi from './components/AddApi';
 import UpdateApi from './components/UpdateApi';
 
-
-
-
-
 function App() {
   return (
     <div>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/add">Add</Link>
+        <Link to="/add">Add </Link>
 
       </nav>
      <Routes>
