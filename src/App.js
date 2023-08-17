@@ -10,7 +10,7 @@ function App() {
     <div>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/add">Add </Link>
+        <Link to="/add">Add</Link>
 
       </nav>
      <Routes>
