@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "satya",
+      "author": "srikant",
+      "id": 8
+    },
+    {
+      "title": "subbu",
+      "author": "subbu",
+      "id": 9
+    },
+    {
+      "title": "subodh",
+      "author": "pachigolla",
+      "id": 10
+    },
+    {
+      "title": "sai",
+      "author": "srinivas",
+      "id": 11
+    },
+    {
+      "title": "subodh",
+      "author": "p",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
